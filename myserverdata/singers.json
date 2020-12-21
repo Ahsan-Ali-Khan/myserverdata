@@ -2,6 +2,9 @@
 	"singers": [{
 			"name": "Sonu Nigam",
 			"photo": "https://i.pinimg.com/236x/e5/de/f5/e5def55ff288d58e3c261b4ed4ee1218.jpg"
+		},{
+			"name": "Atif Aslam",
+			"photo": "https://wallpapercave.com/wp/wp4000900.jpg"
 		},
 		{
 			"name": "Shaan",
